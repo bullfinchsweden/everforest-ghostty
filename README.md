@@ -20,3 +20,5 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 *Everforest 2.itermcolors (without alternative colors for bold text)*
 
 <img width="260" height="87" alt="EverforestGhostty3" src="https://github.com/user-attachments/assets/15a968c0-7f42-47cc-92b9-f73286ab195c" />
+
+<img width="785" height="397" alt="EverforestGhostty4" src="https://github.com/user-attachments/assets/86f3d531-7904-4002-93dc-d3fba6888267" />
