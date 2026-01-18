@@ -9,7 +9,7 @@ My own custom made Everforest color schemes for Ghostty.
 
 * [Everforest for Firefox](https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/)<br>
 
-Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
+Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Everforest*
 
