@@ -1,4 +1,4 @@
-# Everforest Ghostty 🌲👻
+# Everforest Ghostty
 My own custom made Everforest color schemes for Ghostty.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
