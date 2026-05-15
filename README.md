@@ -1,8 +1,6 @@
 # Everforest Ghostty
 My own custom made Everforest color schemes for Ghostty.
 
-<img width="786" height="266" alt="EverforestText" src="https://github.com/user-attachments/assets/bc06a592-3e48-41ed-b909-681b016eb8cd" /><br/>
-
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
 * [Everforest color scheme](https://github.com/sainnhe/everforest)
