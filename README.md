@@ -19,7 +19,7 @@ Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 <img width="260" height="87" alt="EverforestGhostty1" src="https://github.com/user-attachments/assets/7344a749-c9ae-4b97-8b2d-8bd1e0e63c6e" />
 <br/>
-<img width="784" height="397" alt="EverforestGhostty2" src="https://github.com/user-attachments/assets/edc87b9e-4252-4522-ab73-c2007e13204f" /><br>
+<img width="784" height="397" alt="EverforestGhostty2" src="https://github.com/user-attachments/assets/edc87b9e-4252-4522-ab73-c2007e13204f" /><br><br>
 
 *Everforest 2 (without alternative colors for bold text)*
 
