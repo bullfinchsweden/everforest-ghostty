@@ -11,7 +11,7 @@ My own custom made Everforest color schemes for Ghostty.
 
 * [Everforest for Starship](https://github.com/martelo11/starship-everforest-themes)
 
-* [Everforest for Firefox](https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/)<br/>
+* [Everforest for Firefox](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Everforest-Themes/)<br/>
 
 Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
