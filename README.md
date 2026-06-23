@@ -15,12 +15,12 @@ Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Everforest*
 
-<img src="Images/EverforestGhostty1.png" width="260" height="87" /><br/>
+<img src="Images/EverforestGhostty1.png" width="260" height="83" /><br/>
 
-<img src="Images/EverforestGhostty2.png" width="784" height="397" /><br/>
+<img src="Images/EverforestGhostty2.png" width="785" height="398" /><br/>
 
 *Everforest 2 (without alternative colors for bold text)*
 
-<img src="Images/EverforestGhostty3.png" width="259" height="86" /><br/>
+<img src="Images/EverforestGhostty3.png" width="260" height="83" /><br/>
 
-<img src="Images/EverforestGhostty4.png" width="784" height="396" />
+<img src="Images/EverforestGhostty4.png" width="785" height="398" />
