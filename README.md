@@ -5,7 +5,7 @@ My own custom made Everforest color schemes for Ghostty.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
-* [Everforest color scheme](https://github.com/sainnhe/everforest)
+* [Everforest color palette](https://github.com/sainnhe/everforest)
 
 * [Everforest website](https://everforest.vercel.app/)
 
