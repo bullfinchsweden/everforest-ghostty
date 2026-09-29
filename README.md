@@ -23,7 +23,7 @@ Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 <img src="Images/EverforestGhostty3.png" width="260" height="83" /><br/>
 
-<img src="Images/EverforestGhostty4.png" width="785" height="398" />
+<img src="Images/EverforestGhostty4.png" width="785" height="398" /><br/>
 
 *Everforest 3 (lighter colors for bold text)*
 
