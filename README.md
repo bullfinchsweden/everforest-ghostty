@@ -11,7 +11,7 @@ My own custom made Everforest color schemes for Ghostty.
 
 * [Everforest for Starship](https://github.com/martelo11/starship-everforest-themes)<br/>
 
-<img src="Images/Everforest.jpg" width="754" height="528" /><br/>
+<img src="Images/Everforest.jpg" width="785" height="528" /><br/>
 
 Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
