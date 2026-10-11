@@ -1,4 +1,4 @@
-# Everforest Ghostty
+# Everforest | Ghostty
 My own custom made Everforest color schemes for Ghostty.
 
 <img src="Images/Ghostty.jpg"><br/>
